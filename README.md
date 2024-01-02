@@ -5,27 +5,18 @@
 
 Dart Console Weather App is a simple pure Dart console application to get the weather.
 
-## Table of Contents
+## How it works
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+![image](https://github.com/Chewbacca-14/weather/blob/main/g.png)
 
 ## Installation
 
-To get started with [Your Project Name], follow these simple steps:
+To get started with Dart Console Weather App, follow these simple steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-project.git
-
-# Navigate to the project directory
-cd your-project
-
-# Install dependencies
-npm install
+git clone https://github.com/Chewbacca-14/weather.git
+```
 
 
 ## How to run
